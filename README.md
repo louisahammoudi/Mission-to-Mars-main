@@ -6,5 +6,7 @@ Robin's web app is looking good and functioning well, but she wants to add more 
 Here is the list of deliverables for the analysis:
 
 Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
+
 Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
+
 Deliverable 3: Add Bootstrap 3 Components
